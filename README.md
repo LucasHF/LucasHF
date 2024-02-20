@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lucas
-- 🌱 I’m currently learning .Net/C# and revisiting PHP
 - 📫 If any contact is necessary, reach me at luks206@gmail.com
 
 <!---
